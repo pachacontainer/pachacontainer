@@ -73,3 +73,11 @@ body {
 .templatemo_contactform .btn-primary:hover {
     background: #a6d82c;
 }
+
+@media (max-width: 768px){
+html,
+body{
+    width: 100%;
+    overflow-x: hidden;
+    }
+}
